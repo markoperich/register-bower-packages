@@ -1,0 +1,1947 @@
+{
+    "orion-bch-nar-selector": {
+        "name": "orion-bch-nar-selector",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-nar-selector.git",
+        "hits": 679
+    },
+    "orion-bch-nar-saldos": {
+        "name": "orion-bch-nar-saldos",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-nar-saldos.git",
+        "hits": 265
+    },
+    "orion-tarjetascredito-pesos": {
+        "name": "orion-tarjetascredito-pesos",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tarjetascredito-pesos.git",
+        "hits": 2
+    },
+    "orion-tarjetascredito-pesos-filters": {
+        "name": "orion-tarjetascredito-pesos-filters",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tarjetascredito-pesos-filters.git",
+        "hits": 0
+    },
+    "orion-tarjetascredito-pesos-servicios": {
+        "name": "orion-tarjetascredito-pesos-servicios",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tarjetascredito-pesos-servicios.git",
+        "hits": 0
+    },
+    "orion-bch-bla-movimientos-empresas": {
+        "name": "orion-bch-bla-movimientos-empresas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-bla-movimientos-empresas.git",
+        "hits": 163
+    },
+    "orion-tarjetasCredito-pesos": {
+        "name": "orion-tarjetasCredito-pesos",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tarjetascredito-pesos.git",
+        "hits": 46
+    },
+    "orion-tarjetasCredito-pesos-filters": {
+        "name": "orion-tarjetasCredito-pesos-filters",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tarjetascredito-pesos-filters.git",
+        "hits": 41
+    },
+    "orion-tarjetasCredito-pesos-servicios": {
+        "name": "orion-tarjetasCredito-pesos-servicios",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tarjetascredito-pesos-servicios.git",
+        "hits": 42
+    },
+    "orion-micambioclave": {
+        "name": "orion-micambioclave",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-micambioclave.git",
+        "hits": 37
+    },
+    "orion-micambioclave-directivas": {
+        "name": "orion-micambioclave-directivas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-micambioclave-directivas.git",
+        "hits": 39
+    },
+    "orion-micambioclave-factories": {
+        "name": "orion-micambioclave-factories",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-micambioclave-factories.git",
+        "hits": 37
+    },
+    "orion-cajadesafio": {
+        "name": "orion-cajadesafio",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-cajadesafio.git",
+        "hits": 3077
+    },
+    "oruion-micambioclave": {
+        "name": "oruion-micambioclave",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-micambioclave.git",
+        "hits": 0
+    },
+    "orion-carta-instruccion-fiters": {
+        "name": "orion-carta-instruccion-fiters",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-carta-instruccion-filters.git",
+        "hits": 0
+    },
+    "orion-ng-currency": {
+        "name": "orion-ng-currency",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-ng-currency.git",
+        "hits": 1845
+    },
+    "orion-carta-instruccion-service": {
+        "name": "orion-carta-instruccion-service",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-carta-instruccion-service.git",
+        "hits": 185
+    },
+    "orion-carta-instruccion-selector-apoderado": {
+        "name": "orion-carta-instruccion-selector-apoderado",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-carta-instruccion-selector-apoderado.git",
+        "hits": 1164
+    },
+    "orion-carta-instruccion": {
+        "name": "orion-carta-instruccion",
+        "repo": "ssh://git@200.14.166.249:7999/tec/orion-carta-instruccion.git",
+        "hits": 645
+    },
+    "orion-carta-instruccion-filters": {
+        "name": "orion-carta-instruccion-filters",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-carta-instruccion-filters.git",
+        "hits": 2533
+    },
+    "orion-bch-bla-movimientos-personas": {
+        "name": "orion-bch-bla-movimientos-personas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-bla-movimientos-personas.git",
+        "hits": 55
+    },
+    "orion-notification-factory": {
+        "name": "orion-notification-factory",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-notification-factory.git",
+        "hits": 2054
+    },
+    "orion-response-handler": {
+        "name": "orion-response-handler",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-response-handler.git",
+        "hits": 396
+    },
+    "orion-enrolamiento": {
+        "name": "orion-enrolamiento",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-enrolamiento.git",
+        "hits": 14
+    },
+    "orion-enrolamiento-servicios": {
+        "name": "orion-enrolamiento-servicios",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-enrolamiento-servicios.git",
+        "hits": 12
+    },
+    "orion-angular-file-upload": {
+        "name": "orion-angular-file-upload",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-carta-instruccion-file-upload.git",
+        "hits": 2299
+    },
+    "orion-tarjetascredito-pesos-constants": {
+        "name": "orion-tarjetascredito-pesos-constants",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tarjetascredito-pesos-constants.git",
+        "hits": 0
+    },
+    "orion-tarjetasCredito-pesos-constants": {
+        "name": "orion-tarjetasCredito-pesos-constants",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tarjetascredito-pesos-constants.git",
+        "hits": 37
+    },
+    "orion-ui-empresas": {
+        "name": "orion-ui-empresas",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-ui-empresas.git",
+        "hits": 3566
+    },
+    "orion-ui-personas": {
+        "name": "orion-ui-personas",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-ui-personas.git",
+        "hits": 241
+    },
+    "orion-popover": {
+        "name": "orion-popover",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-popover.git",
+        "hits": 60
+    },
+    "orion-bch-bur-header": {
+        "name": "orion-bch-bur-header",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-bur-header.git",
+        "hits": 147
+    },
+    "orion-bch-bur-notificaciones": {
+        "name": "orion-bch-bur-notificaciones",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-bur-notificaciones.git",
+        "hits": 149
+    },
+    "orion-bch-bur-agenda": {
+        "name": "orion-bch-bur-agenda",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-bur-agenda.git",
+        "hits": 150
+    },
+    "orion-empresa-perfilamiento": {
+        "name": "orion-empresa-perfilamiento",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-home.git",
+        "hits": 69
+    },
+    "orion-bch-bur-selectorEmpresas": {
+        "name": "orion-bch-bur-selectorEmpresas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-bur-selectorempresas.git",
+        "hits": 149
+    },
+    "orion-bch-azu-ayuda-contextual": {
+        "name": "orion-bch-azu-ayuda-contextual",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-azu-ayuda-contextual.git",
+        "hits": 203
+    },
+    "orion-bch-azu-ayuda-contextual-factories": {
+        "name": "orion-bch-azu-ayuda-contextual-factories",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-azu-ayuda-contextual-factories.git",
+        "hits": 183
+    },
+    "orion-bch-bur-procesosNoCompletados": {
+        "name": "orion-bch-bur-procesosNoCompletados",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-bur-procesosnocompletados.git",
+        "hits": 149
+    },
+    "orion-bch-azu-seguridad-claves": {
+        "name": "orion-bch-azu-seguridad-claves",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-azu-seguridad-claves.git",
+        "hits": 2
+    },
+    "orion-bch-bur-contacto": {
+        "name": "orion-bch-bur-contacto",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-bur-contactos.git",
+        "hits": 152
+    },
+    "orion-bchMorPagosAvances": {
+        "name": "orion-bchMorPagosAvances",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bchmorpagosavances.git",
+        "hits": 34
+    },
+    "orion-bloqueo-dispositivos": {
+        "name": "orion-bloqueo-dispositivos",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bloqueo-dispositivos.git",
+        "hits": 23
+    },
+    "orion-tef-empresas-service": {
+        "name": "orion-tef-empresas-service",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tef-empresas-service.git",
+        "hits": 57
+    },
+    "orion-menu-changer": {
+        "name": "orion-menu-changer",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-menu-changer.git",
+        "hits": 536
+    },
+    "orion-tef-empresa": {
+        "name": "orion-tef-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tef-empresas.git",
+        "hits": 148
+    },
+    "orion-bch-nar-permisos": {
+        "name": "orion-bch-nar-permisos",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-nar-permisos.git",
+        "hits": 1148
+    },
+    "orion-perfilamiento-bancavirtual": {
+        "name": "orion-perfilamiento-bancavirtual",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-perfilamiento-bvt.git",
+        "hits": 38
+    },
+    "orion-perfilamiento-bvt-services": {
+        "name": "orion-perfilamiento-bvt-services",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-perfilamiento-bvt-services.git",
+        "hits": 33
+    },
+    "orion-perfilamiento-bvt-factories": {
+        "name": "orion-perfilamiento-bvt-factories",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-perfilamiento-bvt-factories.git",
+        "hits": 34
+    },
+    "orion-tef-personas-service": {
+        "name": "orion-tef-personas-service",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tef-personas-service.git",
+        "hits": 37
+    },
+    "orion-bchMorConfiguraciones": {
+        "name": "orion-bchMorConfiguraciones",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bchmorconfiguraciones.git",
+        "hits": 33
+    },
+    "orion-ui-ionicons": {
+        "name": "orion-ui-ionicons",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-ui-ionicons.git",
+        "hits": 2100
+    },
+    "orion-tef-persona": {
+        "name": "orion-tef-persona",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tef-personas.git",
+        "hits": 37
+    },
+    "orion-bch-ama-navMenu": {
+        "name": "orion-bch-ama-navMenu",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-ama-navmenu.git",
+        "hits": 133
+    },
+    "orion-ui-custom-icons": {
+        "name": "orion-ui-custom-icons",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-ui-custom-icons.git",
+        "hits": 249
+    },
+    "orion-solicitud-clave": {
+        "name": "orion-solicitud-clave",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-solicitud-clave.git",
+        "hits": 16
+    },
+    "orion-login": {
+        "name": "orion-login",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-login.git",
+        "hits": 26
+    },
+    "orion-bch-bla-directivahelloworld": {
+        "name": "orion-bch-bla-directivahelloworld",
+        "repo": "ssh://git@200.14.166.249:7999/tp/orion-bch-bla-directivahelloworld.git",
+        "hits": 2
+    },
+    "orion-bch-ama-navmenu": {
+        "name": "orion-bch-ama-navmenu",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-ama-navmenu.git",
+        "hits": 1
+    },
+    "orion-desbloqueo": {
+        "name": "orion-desbloqueo",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-desbloqueo.git",
+        "hits": 23
+    },
+    "orion-empresa-perfilamiento-factories": {
+        "name": "orion-empresa-perfilamiento-factories",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-perfilamiento-factories.git",
+        "hits": 140
+    },
+    "orion-tarjetascredito-pesos-factories": {
+        "name": "orion-tarjetascredito-pesos-factories",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tarjetascredito-pesos-factories.git",
+        "hits": 26
+    },
+    "orion-bch-bur-miPerfil": {
+        "name": "orion-bch-bur-miPerfil",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-bur-miperfil.git",
+        "hits": 98
+    },
+    "orion-print-me": {
+        "name": "orion-print-me",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-print-me.git",
+        "hits": 2468
+    },
+    "orion-ui-sweetalert": {
+        "name": "orion-ui-sweetalert",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-ui-sweetalert.git",
+        "hits": 15
+    },
+    "orion-perfilamiento-bvt-directives": {
+        "name": "orion-perfilamiento-bvt-directives",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-perfilamiento-bvt-directives.git",
+        "hits": 22
+    },
+    "orion-checkbox": {
+        "name": "orion-checkbox",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-checkbox.git",
+        "hits": 42
+    },
+    "orion-bch-azu-login-empresa": {
+        "name": "orion-bch-azu-login-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-azu-login-empresa.git",
+        "hits": 126
+    },
+    "orion-bch-azu-solicitud-clave-empresa": {
+        "name": "orion-bch-azu-solicitud-clave-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-azu-solicitud-clave-empresa.git",
+        "hits": 118
+    },
+    "orion-paginador": {
+        "name": "orion-paginador",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-paginador.git",
+        "hits": 30
+    },
+    "orion-ui-bancavirtual": {
+        "name": "orion-ui-bancavirtual",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-ui-bancavirtual.git",
+        "hits": 8
+    },
+    "orion-azu-test-cajadesafio": {
+        "name": "orion-azu-test-cajadesafio",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-azu-test-cajadesafio.git",
+        "hits": 1
+    },
+    "orion-bch-azu-testCajaDesafio": {
+        "name": "orion-bch-azu-testCajaDesafio",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-azu-testcajadesafio.git",
+        "hits": 0
+    },
+    "orion-bch-azu-testcajadesafio": {
+        "name": "orion-bch-azu-testcajadesafio",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-azu-testcajadesafio.git",
+        "hits": 1
+    },
+    "orion-tarjetasCredito-pesos-directives": {
+        "name": "orion-tarjetasCredito-pesos-directives",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tarjetascredito-pesos-directives.git",
+        "hits": 13
+    },
+    "orion-bch-azu-cambio-clave-empresa": {
+        "name": "orion-bch-azu-cambio-clave-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-azu-cambio-clave-empresa.git",
+        "hits": 322
+    },
+    "orion-bch-azu-politica-seguridad": {
+        "name": "orion-bch-azu-politica-seguridad",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-azu-politica-seguridad.git",
+        "hits": 2339
+    },
+    "orion-empresa-perfilamiento-filters": {
+        "name": "orion-empresa-perfilamiento-filters",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-perfilamiento-filters.git",
+        "hits": 75
+    },
+    "orion-bch-azu-olvido-clave-empresa": {
+        "name": "orion-bch-azu-olvido-clave-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-azu-olvido-clave-empresa.git",
+        "hits": 119
+    },
+    "orion-desbloqueo-empresa": {
+        "name": "orion-desbloqueo-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-desbloqueo-empresa.git",
+        "hits": 117
+    },
+    "orion-empresa-menu": {
+        "name": "orion-empresa-menu",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-menu.git",
+        "hits": 39
+    },
+    "orion-empresa-menu-directives": {
+        "name": "orion-empresa-menu-directives",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-menu-directives.git",
+        "hits": 38
+    },
+    "orion-empresa-header": {
+        "name": "orion-empresa-header",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-header.git",
+        "hits": 958
+    },
+    "orion-empresa-header-directives": {
+        "name": "orion-empresa-header-directives",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-header-directives.git",
+        "hits": 39
+    },
+    "orion-empresa-header-factories": {
+        "name": "orion-empresa-header-factories",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-header-factories.git",
+        "hits": 40
+    },
+    "orion-empresa-header-filters": {
+        "name": "orion-empresa-header-filters",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-header-filters.git",
+        "hits": 41
+    },
+    "orion-empresa-header-services": {
+        "name": "orion-empresa-header-services",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-header-services.git",
+        "hits": 40
+    },
+    "orion-empresa-header-selector": {
+        "name": "orion-empresa-header-selector",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-header-selector.git",
+        "hits": 42
+    },
+    "orion-empresa-header-selector-directives": {
+        "name": "orion-empresa-header-selector-directives",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-header-selector-directives.git",
+        "hits": 41
+    },
+    "orion-empresa-header-selector-factories": {
+        "name": "orion-empresa-header-selector-factories",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-header-selector-factories.git",
+        "hits": 41
+    },
+    "orion-empresa-header-constants": {
+        "name": "orion-empresa-header-constants",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-header-constants.git",
+        "hits": 3
+    },
+    "orion-empresa-menu.factory": {
+        "name": "orion-empresa-menu.factory",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-menu-factory.git",
+        "hits": 0
+    },
+    "orion-empresa-menu-factories": {
+        "name": "orion-empresa-menu-factories",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-menu-factories.git",
+        "hits": 37
+    },
+    "orion-movimientos-empresa-constants": {
+        "name": "orion-movimientos-empresa-constants",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-movimientos-empresa-constants.git",
+        "hits": 68
+    },
+    "orion-movimientos-empresa-factories": {
+        "name": "orion-movimientos-empresa-factories",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-movimientos-empresa-factories.git",
+        "hits": 68
+    },
+    "orion-movimientos-empresa-filters": {
+        "name": "orion-movimientos-empresa-filters",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-movimientos-empresa-filters.git",
+        "hits": 68
+    },
+    "orion-movimientos-empresa-services": {
+        "name": "orion-movimientos-empresa-services",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-movimientos-empresa-services.git",
+        "hits": 68
+    },
+    "orion-movimientos-empresa": {
+        "name": "orion-movimientos-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-movimientos-empresa.git",
+        "hits": 966
+    },
+    "orion-enrolamiento-empresa": {
+        "name": "orion-enrolamiento-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-enrolamiento-empresa.git",
+        "hits": 1068
+    },
+    "orion-carta-instruccion-banco": {
+        "name": "orion-carta-instruccion-banco",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-carta-instruccion-banco.git",
+        "hits": 353
+    },
+    "orion-nuevo-usuario-empresa": {
+        "name": "orion-nuevo-usuario-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-nuevo-usuario-empresa.git",
+        "hits": 3
+    },
+    "orion-portal-banco-header": {
+        "name": "orion-portal-banco-header",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-portal-banco-header.git",
+        "hits": 352
+    },
+    "orion-portal-banco-header-factories": {
+        "name": "orion-portal-banco-header-factories",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-portal-banco-header-factories.git",
+        "hits": 4
+    },
+    "orion-portal-banco-header-services": {
+        "name": "orion-portal-banco-header-services",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-portal-banco-header-services.git",
+        "hits": 3
+    },
+    "orion-empresa-session": {
+        "name": "orion-empresa-session",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-session.git",
+        "hits": 146
+    },
+    "orion-portal-banco-perfilamiento": {
+        "name": "orion-portal-banco-perfilamiento",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-portal-banco-perfilamiento.git",
+        "hits": 345
+    },
+    "orion-portal-banco-habilitar-usuario-empresa": {
+        "name": "orion-portal-banco-habilitar-usuario-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-portal-banco-habilitar-usuario-empresa.git",
+        "hits": 336
+    },
+    "orion-public-response-handler": {
+        "name": "orion-public-response-handler",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-public-response-handler.git",
+        "hits": 2
+    },
+    "orion-public-notification-factory": {
+        "name": "orion-public-notification-factory",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-publico-notification-factory.git",
+        "hits": 2
+    },
+    "orion-bch-arc-catalogo": {
+        "name": "orion-bch-arc-catalogo",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-arc-catalogo.git",
+        "hits": 1679
+    },
+    "orion-portal-banco-header-prototipo": {
+        "name": "orion-portal-banco-header-prototipo",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-portal-banco-header-prototipo.git",
+        "hits": 2
+    },
+    "orion-bch-login-persona": {
+        "name": "orion-bch-login-persona",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-login-persona.git",
+        "hits": 207
+    },
+    "orion-empresa-mi-perfil": {
+        "name": "orion-empresa-mi-perfil",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-mi-perfil.git",
+        "hits": 906
+    },
+    "orion-cambio-clave-directiva": {
+        "name": "orion-cambio-clave-directiva",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-cambio-clave-directiva.git",
+        "hits": 2155
+    },
+    "orion-message-handler": {
+        "name": "orion-message-handler",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-message-handler.git",
+        "hits": 2710
+    },
+    "orion-encuestas": {
+        "name": "orion-encuestas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-encuestas.git",
+        "hits": 2171
+    },
+    "orion-bch-arc-descargaExcel": {
+        "name": "orion-bch-arc-descargaExcel",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-arc-descargaexcel.git",
+        "hits": 2123
+    },
+    "orion-tarjeta-credito-empresa": {
+        "name": "orion-tarjeta-credito-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tarjeta-credito-empresa.git",
+        "hits": 880
+    },
+    "orion-selector-productos": {
+        "name": "orion-selector-productos",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-selector-productos.git",
+        "hits": 2349
+    },
+    "orion-saldo-empresa": {
+        "name": "orion-saldo-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-saldo-empresa.git",
+        "hits": 933
+    },
+    "orion-directive-util-setFocus": {
+        "name": "orion-directive-util-setFocus",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-directive-util-setfocus.git",
+        "hits": 2738
+    },
+    "orion-directive-util-numericOnly": {
+        "name": "orion-directive-util-numericOnly",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-directive-util-numericonly.git",
+        "hits": 2801
+    },
+    "sweetalert-ui": {
+        "name": "sweetalert-ui",
+        "repo": "ssh://git@200.14.166.249:7999/ui/sweetalert-ui.git",
+        "hits": 4228
+    },
+    "orion-directive-util-deleteZeroLeft": {
+        "name": "orion-directive-util-deleteZeroLeft",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-directive-util-deletezeroleft.git",
+        "hits": 2440
+    },
+    "orion-mensajes-login": {
+        "name": "orion-mensajes-login",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-mensajes-login.git",
+        "hits": 1980
+    },
+    "orion-bch-persona-olvido-clave": {
+        "name": "orion-bch-persona-olvido-clave",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-persona-olvido-clave.git",
+        "hits": 196
+    },
+    "orion-bch-desbloqueo-persona": {
+        "name": "orion-bch-desbloqueo-persona",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-desbloqueo-persona.git",
+        "hits": 198
+    },
+    "orion-encuestas-admin": {
+        "name": "orion-encuestas-admin",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-encuestas-admin.git",
+        "hits": 314
+    },
+    "orion-bch-persona-acceso-folio": {
+        "name": "orion-bch-persona-acceso-folio",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-persona-acceso-folio.git",
+        "hits": 1551
+    },
+    "orion-persona-header": {
+        "name": "orion-persona-header",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-persona-header.git",
+        "hits": 1758
+    },
+    "orion-tarjeta-credito-persona": {
+        "name": "orion-tarjeta-credito-persona",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tarjeta-credito-persona.git",
+        "hits": 1724
+    },
+    "orion-directive-util-validateMail": {
+        "name": "orion-directive-util-validateMail",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-directive-util-validatemail.git",
+        "hits": 1948
+    },
+    "orion-persona-mi-perfil": {
+        "name": "orion-persona-mi-perfil",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-persona-mi-perfil.git",
+        "hits": 1800
+    },
+    "orion-solicitud-clave-persona": {
+        "name": "orion-solicitud-clave-persona",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-solicitud-clave-persona.git",
+        "hits": 193
+    },
+    "orion-persona-perfilamiento": {
+        "name": "orion-persona-perfilamiento",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-persona-perfilamiento.git",
+        "hits": 35
+    },
+    "orion-ui-edwards": {
+        "name": "orion-ui-edwards",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-ui-edwards.git",
+        "hits": 3
+    },
+    "taurus-datos-usuario": {
+        "name": "taurus-datos-usuario",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-datos-usuario.git",
+        "hits": 4
+    },
+    "orion-autorizaciones": {
+        "name": "orion-autorizaciones",
+        "repo": "ssh://git@200.14.166.249:7999/aut/orion-autorizacion.git",
+        "hits": 1
+    },
+    "prototipo-orion-autorizaciones": {
+        "name": "prototipo-orion-autorizaciones",
+        "repo": "ssh://git@200.14.166.249:7999/aut/prototipo-orion-autorizaciones.git",
+        "hits": 7
+    },
+    "orion-movimientos-persona": {
+        "name": "orion-movimientos-persona",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-movimientos-persona.git",
+        "hits": 1730
+    },
+    "orion-tef-agenda": {
+        "name": "orion-tef-agenda",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tef-agenda.git",
+        "hits": 2058
+    },
+    "orion-tef-transferencia": {
+        "name": "orion-tef-transferencia",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tef-transferencia.git",
+        "hits": 1830
+    },
+    "orion-drag-and-drop": {
+        "name": "orion-drag-and-drop",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-drag-and-drop.git",
+        "hits": 3
+    },
+    "taurus-poc-cuadropago": {
+        "name": "taurus-poc-cuadropago",
+        "repo": "ssh://git@200.14.166.249:7999/tf/bch-plataforma-base-cuadropago.git",
+        "hits": 1
+    },
+    "orion-session": {
+        "name": "orion-session",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-session.git",
+        "hits": 2312
+    },
+    "orion-persona-perfilamiento_BEC": {
+        "name": "orion-persona-perfilamiento_BEC",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-persona-perfilamiento_bec.git",
+        "hits": 8
+    },
+    "orion-simulador-hipotecario": {
+        "name": "orion-simulador-hipotecario",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-simulador-hipotecario.git",
+        "hits": 1711
+    },
+    "orion-bch-redgiro": {
+        "name": "orion-bch-redgiro",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-redgiro.git",
+        "hits": 733
+    },
+    "taurus-info-financiera-cliente": {
+        "name": "taurus-info-financiera-cliente",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-info-financiera-cliente.git",
+        "hits": 899
+    },
+    "orion-ui-empresas_BEC": {
+        "name": "orion-ui-empresas_BEC",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-ui-empresas_bec.git",
+        "hits": 1375
+    },
+    "orion-ui-empresas_BCH": {
+        "name": "orion-ui-empresas_BCH",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-ui-empresas_bch.git",
+        "hits": 1658
+    },
+    "orion-bch-consulta-ahorro": {
+        "name": "orion-bch-consulta-ahorro",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-consulta-ahorro.git",
+        "hits": 848
+    },
+    "orion-bch-wealth-management": {
+        "name": "orion-bch-wealth-management",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-wealth-management.git",
+        "hits": 848
+    },
+    "orion-bch-cuentas-cheques": {
+        "name": "orion-bch-cuentas-cheques",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-cuentas-cheques.git",
+        "hits": 146
+    },
+    "orion-ptc-empresas": {
+        "name": "orion-ptc-empresas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-ptc-empresas.git",
+        "hits": 400
+    },
+    "orion-autoadmin-empresa": {
+        "name": "orion-autoadmin-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-autoadministracion-empresa.git",
+        "hits": 425
+    },
+    "orion-comprobantes": {
+        "name": "orion-comprobantes",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-comprobantes.git",
+        "hits": 1546
+    },
+    "orion-mis-preferencias": {
+        "name": "orion-mis-preferencias",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-mis-preferencias.git",
+        "hits": 1068
+    },
+    "orion-tef-consultas": {
+        "name": "orion-tef-consultas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tef-consultas.git",
+        "hits": 891
+    },
+    "orion-emergencias-bancarias": {
+        "name": "orion-emergencias-bancarias",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-emergencias-bancarias.git",
+        "hits": 932
+    },
+    "orion-bch-preguntas-seguridad": {
+        "name": "orion-bch-preguntas-seguridad",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-preguntas-seguridad.git",
+        "hits": 1093
+    },
+    "orion-guideline-personas": {
+        "name": "orion-guideline-personas",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-guideline-personas.git",
+        "hits": 2189
+    },
+    "orion-ui-empresas_cch": {
+        "name": "orion-ui-empresas_cch",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-ui-empresas_cch.git",
+        "hits": 2
+    },
+    "orion-iconos-seguros": {
+        "name": "orion-iconos-seguros",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-iconos-seguros.git",
+        "hits": 870
+    },
+    "orion-common-factories": {
+        "name": "orion-common-factories",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-common-factories.git",
+        "hits": 1191
+    },
+    "orion-directive-util-alphaNumericOnly": {
+        "name": "orion-directive-util-alphaNumericOnly",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-directive-util-alphanumericonly.git",
+        "hits": 1299
+    },
+    "orion-mapa-chile": {
+        "name": "orion-mapa-chile",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-mapa-chile.git",
+        "hits": 1086
+    },
+    "orion-plc-empresas": {
+        "name": "orion-plc-empresas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-plc-empresas.git",
+        "hits": 421
+    },
+    "orion-reload-page": {
+        "name": "orion-reload-page",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-reload-page.git",
+        "hits": 1151
+    },
+    "orion-bch-ultimos-accesos": {
+        "name": "orion-bch-ultimos-accesos",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-ultimos-accesos.git",
+        "hits": 1074
+    },
+    "orion-empresa-home": {
+        "name": "orion-empresa-home",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-empresa-home.git",
+        "hits": 416
+    },
+    "orion-directive-util-amountFormat": {
+        "name": "orion-directive-util-amountFormat",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-directive-util-amountformat.git",
+        "hits": 1292
+    },
+    "orion-tef-agenda-empresas": {
+        "name": "orion-tef-agenda-empresas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tef-agenda-empresas.git",
+        "hits": 316
+    },
+    "orion-tef-empresas": {
+        "name": "orion-tef-empresas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tef-empresas.git",
+        "hits": 424
+    },
+    "orion-cvd-persona": {
+        "name": "orion-cvd-persona",
+        "repo": "ssh://git@200.14.166.249:7999/cvd/orion-cvd-personas.git",
+        "hits": 0
+    },
+    "orion-bch-informe-credito-hipotecario": {
+        "name": "orion-bch-informe-credito-hipotecario",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-informe-credito-hipotecario.git",
+        "hits": 890
+    },
+    "orion-bch-consulta-proximos-dividendos": {
+        "name": "orion-bch-consulta-proximos-dividendos",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bch-consulta-proximos-dividendos.git",
+        "hits": 889
+    },
+    "orion-pago-electronico-cuentas": {
+        "name": "orion-pago-electronico-cuentas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-pago-electronico-cuentas.git",
+        "hits": 895
+    },
+    "orion-credito-consumo": {
+        "name": "orion-credito-consumo",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-credito-consumo.git",
+        "hits": 893
+    },
+    "orion-common-filters": {
+        "name": "orion-common-filters",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-common-filters.git",
+        "hits": 1485
+    },
+    "orion-configuracion-tarjeta-debito": {
+        "name": "orion-configuracion-tarjeta-debito",
+        "repo": "ssh://git@200.14.166.249:7999/tdd/orion-configuracion-tarjeta-debito.git",
+        "hits": 891
+    },
+    "orion-selector-cuenta-directive": {
+        "name": "orion-selector-cuenta-directive",
+        "repo": "ssh://git@200.14.166.249:7999/pec/orion-selector-cuenta-directive.git",
+        "hits": 885
+    },
+    "orion-mis-documentos": {
+        "name": "orion-mis-documentos",
+        "repo": "ssh://git@200.14.166.249:7999/ct/orion-mis-documentos.git",
+        "hits": 888
+    },
+    "orion-advanced-pagination": {
+        "name": "orion-advanced-pagination",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-advanced-pagination.git",
+        "hits": 1261
+    },
+    "orion-persona-home": {
+        "name": "orion-persona-home",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-persona-home.git",
+        "hits": 894
+    },
+    "orion-motor-seguros": {
+        "name": "orion-motor-seguros",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-motor-seguros.git",
+        "hits": 954
+    },
+    "orion-ui-empresas_CCH": {
+        "name": "orion-ui-empresas_CCH",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-ui-empresas_cch.git",
+        "hits": 1281
+    },
+    "orion-mis-seguros": {
+        "name": "orion-mis-seguros",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-mis-seguros.git",
+        "hits": 954
+    },
+    "orion-widgets": {
+        "name": "orion-widgets",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-widgets.git",
+        "hits": 902
+    },
+    "orion-dap-personas": {
+        "name": "orion-dap-personas",
+        "repo": "ssh://git@200.14.166.249:7999/dap/orion-dap-personas.git",
+        "hits": 892
+    },
+    "orion-tef-pago-productos": {
+        "name": "orion-tef-pago-productos",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-tef-pago-productos.git",
+        "hits": 888
+    },
+    "taurus-directive-enter": {
+        "name": "taurus-directive-enter",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-enter.git",
+        "hits": 1262
+    },
+    "orion-error-handler": {
+        "name": "orion-error-handler",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-error-handler.git",
+        "hits": 1212
+    },
+    "taurus-filter": {
+        "name": "taurus-filter",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/filters.git",
+        "hits": 2
+    },
+    "taurus-filters": {
+        "name": "taurus-filters",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/filters.git",
+        "hits": 1458
+    },
+    "orion-cvd-personas": {
+        "name": "orion-cvd-personas",
+        "repo": "ssh://git@200.14.166.249:7999/cvd/orion-cvd-personas.git",
+        "hits": 891
+    },
+    "taurus-directive-rut": {
+        "name": "taurus-directive-rut",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-rut.git",
+        "hits": 1167
+    },
+    "orion-input-dolar": {
+        "name": "orion-input-dolar",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-input-dolar.git",
+        "hits": 948
+    },
+    "orion-enrolamiento-express-banchile": {
+        "name": "orion-enrolamiento-express-banchile",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-enrolamiento-express-banchile.git",
+        "hits": 892
+    },
+    "orion-footer-print-banca": {
+        "name": "orion-footer-print-banca",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-footer-print-banca.git",
+        "hits": 951
+    },
+    "orion-date-util": {
+        "name": "orion-date-util",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-date-util.git",
+        "hits": 1093
+    },
+    "taurus-directive-date": {
+        "name": "taurus-directive-date",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-date.git",
+        "hits": 1256
+    },
+    "taurus-credito-cierre-dia": {
+        "name": "taurus-credito-cierre-dia",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-cierre-dia.git",
+        "hits": 145
+    },
+    "taurus-credito-autorizar-pago": {
+        "name": "taurus-credito-autorizar-pago",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-autorizar-pago.git",
+        "hits": 2
+    },
+    "taurus-credito-listado-transacciones": {
+        "name": "taurus-credito-listado-transacciones",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-listado-transacciones.git",
+        "hits": 146
+    },
+    "taurus-credito-cuadro-pago": {
+        "name": "taurus-credito-cuadro-pago",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-cuadro-pago.git",
+        "hits": 146
+    },
+    "directive-validatekey": {
+        "name": "directive-validatekey",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-validatekey.git",
+        "hits": 0
+    },
+    "taurus-directive-validatekey": {
+        "name": "taurus-directive-validatekey",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-validatekey.git",
+        "hits": 966
+    },
+    "taurus-directive-show-if-authorized": {
+        "name": "taurus-directive-show-if-authorized",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-show-if-authorized.git",
+        "hits": 1312
+    },
+    "taurus-plataforma": {
+        "name": "taurus-plataforma",
+        "repo": "ssh://git@200.14.166.249:7999/tu/taurus-plataforma.git",
+        "hits": 766
+    },
+    "taurus-paginator": {
+        "name": "taurus-paginator",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/paginator.git",
+        "hits": 465
+    },
+    "taurus-directive-number": {
+        "name": "taurus-directive-number",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-number.git",
+        "hits": 1202
+    },
+    "taurus-header": {
+        "name": "taurus-header",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-header.git",
+        "hits": 730
+    },
+    "taurus-dap-consulta-deposito": {
+        "name": "taurus-dap-consulta-deposito",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-consulta-deposito.git",
+        "hits": 306
+    },
+    "taurus-dap-journal": {
+        "name": "taurus-dap-journal",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-journal.git",
+        "hits": 283
+    },
+    "taurus-dap-ingreso-deposito": {
+        "name": "taurus-dap-ingreso-deposito",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-ingreso-deposito.git",
+        "hits": 446
+    },
+    "taurus-indicadores-financieros": {
+        "name": "taurus-indicadores-financieros",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/indicadores-financieros-factory.git",
+        "hits": 1195
+    },
+    "taurus-jwt-factory": {
+        "name": "taurus-jwt-factory",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/jwt-factory.git",
+        "hits": 1194
+    },
+    "orion-portal-banco-envio-sms": {
+        "name": "orion-portal-banco-envio-sms",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-portal-banco-envio-sms.git",
+        "hits": 170
+    },
+    "taurus-info-cliente": {
+        "name": "taurus-info-cliente",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-info-cliente.git",
+        "hits": 1113
+    },
+    "orion-ci-condiciones-comerciales": {
+        "name": "orion-ci-condiciones-comerciales",
+        "repo": "ssh://git@200.14.166.249:7999/tec/orion-ci-condiciones-comerciales.git",
+        "hits": 168
+    },
+    "bootstrap": {
+        "name": "bootstrap",
+        "repo": "ssh://git@200.14.166.249:7999/db/bootstrap.git",
+        "hits": 1467
+    },
+    "lodash": {
+        "name": "lodash",
+        "repo": "ssh://git@200.14.166.249:7999/db/lodash.git",
+        "hits": 1237
+    },
+    "angular-translate": {
+        "name": "angular-translate",
+        "repo": "ssh://git@200.14.166.249:7999/db/bower-angular-translate.git",
+        "hits": 1306
+    },
+    "orion-lodash": {
+        "name": "orion-lodash",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-lodash.git",
+        "hits": 1267
+    },
+    "taurus-dap-consulta-vigentes": {
+        "name": "taurus-dap-consulta-vigentes",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-consulta-vigentes.git",
+        "hits": 244
+    },
+    "taurus-dap-liquidacion-deposito": {
+        "name": "taurus-dap-liquidacion-deposito",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-liquidacion-deposito.git",
+        "hits": 57
+    },
+    "taurus-dap-informe-novedades": {
+        "name": "taurus-dap-informe-novedades",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-informe-novedades.git",
+        "hits": 256
+    },
+    "orion-campanias": {
+        "name": "orion-campanias",
+        "repo": "ssh://git@200.14.166.249:7999/cw/orion-campanias.git",
+        "hits": 757
+    },
+    "orion-recarga-celular": {
+        "name": "orion-recarga-celular",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-recarga-celular.git",
+        "hits": 764
+    },
+    "orion-impuestos": {
+        "name": "orion-impuestos",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-impuestos.git",
+        "hits": 773
+    },
+    "taurus-perfil-usuario": {
+        "name": "taurus-perfil-usuario",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/perfil-usuario.git",
+        "hits": 949
+    },
+    "manual-marca": {
+        "name": "manual-marca",
+        "repo": "ssh://git@200.14.166.249:7999/td/pc-catalogo-plataforma.git",
+        "hits": 41
+    },
+    "taurus-serv-consulta-productos": {
+        "name": "taurus-serv-consulta-productos",
+        "repo": "ssh://git@200.14.166.249:7999/tffs/taurus-serv-consulta-productos.git",
+        "hits": 140
+    },
+    "taurus-credito-curse": {
+        "name": "taurus-credito-curse",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-curse.git",
+        "hits": 135
+    },
+    "orion-bch-cambio-clave": {
+        "name": "orion-bch-cambio-clave",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-cambio-clave-publico.git",
+        "hits": 5
+    },
+    "orion-selector-cuenta-inversion": {
+        "name": "orion-selector-cuenta-inversion",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-selector-cuenta-inversion.git",
+        "hits": 886
+    },
+    "orion-consulta-cheques-persona": {
+        "name": "orion-consulta-cheques-persona",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-consulta-cheques-persona.git",
+        "hits": 743
+    },
+    "modernizr": {
+        "name": "modernizr",
+        "repo": "ssh://git@200.14.166.249:7999/tfde/modernizr.git",
+        "hits": 932
+    },
+    "angular-ui-utils": {
+        "name": "angular-ui-utils",
+        "repo": "ssh://git@200.14.166.249:7999/tfde/ui-utils.git",
+        "hits": 1198
+    },
+    "angular-i18n": {
+        "name": "angular-i18n",
+        "repo": "ssh://git@200.14.166.249:7999/tfde/bower-angular-i18n.git",
+        "hits": 1361
+    },
+    "angular-ui-select": {
+        "name": "angular-ui-select",
+        "repo": "ssh://git@200.14.166.249:7999/tfde/ui-select.git",
+        "hits": 1217
+    },
+    "angular-animate": {
+        "name": "angular-animate",
+        "repo": "ssh://git@200.14.166.249:7999/tfde/angular-animate.git",
+        "hits": 1306
+    },
+    "angular-ui-bootstrap": {
+        "name": "angular-ui-bootstrap",
+        "repo": "ssh://git@200.14.166.249:7999/tfde/angular-ui-bootstrap.git",
+        "hits": 302
+    },
+    "restangular": {
+        "name": "restangular",
+        "repo": "ssh://git@200.14.166.249:7999/tfde/restangular.git",
+        "hits": 1051
+    },
+    "orion-cartola-inversiones-persona": {
+        "name": "orion-cartola-inversiones-persona",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-cartola-inversiones-persona.git",
+        "hits": 720
+    },
+    "orion-directive-selector-cuenta": {
+        "name": "orion-directive-selector-cuenta",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-directive-selector-cuentas.git",
+        "hits": 1
+    },
+    "orion-directive-selector-cuentas": {
+        "name": "orion-directive-selector-cuentas",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-directive-selector-cuentas.git",
+        "hits": 755
+    },
+    "orion-resumen-inversion": {
+        "name": "orion-resumen-inversion",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-resumen-inversion.git",
+        "hits": 719
+    },
+    "orion-cambio-clave-publico": {
+        "name": "orion-cambio-clave-publico",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-cambio-clave-publico.git",
+        "hits": 9
+    },
+    "taurus-fecha-factory": {
+        "name": "taurus-fecha-factory",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-fecha-factory.git",
+        "hits": 99
+    },
+    "taurus-credito-mantenedor": {
+        "name": "taurus-credito-mantenedor",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-mantenedor.git",
+        "hits": 119
+    },
+    "taurus-info-basica-personal": {
+        "name": "taurus-info-basica-personal",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-info-basica-personal.git",
+        "hits": 7
+    },
+    "taurus-format-number": {
+        "name": "taurus-format-number",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-format-number.git",
+        "hits": 964
+    },
+    "orion-aportes-ffmm": {
+        "name": "orion-aportes-ffmm",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-aportes-ffmm.git",
+        "hits": 695
+    },
+    "taurus-dap-postventa": {
+        "name": "taurus-dap-postventa",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-postventa.git",
+        "hits": 299
+    },
+    "orion-acciones": {
+        "name": "orion-acciones",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-acciones.git",
+        "hits": 694
+    },
+    "orion-seguros-persona": {
+        "name": "orion-seguros-persona",
+        "repo": "ssh://git@200.14.166.249:7999/seg/orion-seguros-persona.git",
+        "hits": 704
+    },
+    "taurus-info-cliente-360": {
+        "name": "taurus-info-cliente-360",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-info-cliente-360.git",
+        "hits": 17
+    },
+    "taurus-credito-reversa": {
+        "name": "taurus-credito-reversa",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-reversa.git",
+        "hits": 97
+    },
+    "taurus-buscar-cliente": {
+        "name": "taurus-buscar-cliente",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-buscar-cliente.git",
+        "hits": 0
+    },
+    "directive-buscar-cliente": {
+        "name": "directive-buscar-cliente",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-buscar-cliente.git",
+        "hits": 1
+    },
+    "taurus-directive-buscar-cliente": {
+        "name": "taurus-directive-buscar-cliente",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-buscar-cliente.git",
+        "hits": 733
+    },
+    "orion-directive-util-dateFormat": {
+        "name": "orion-directive-util-dateFormat",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-directive-util-dateformat.git",
+        "hits": 738
+    },
+    "orion-rescate-fondos-mutuos": {
+        "name": "orion-rescate-fondos-mutuos",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-rescate-fondos-mutuos.git",
+        "hits": 693
+    },
+    "orion-version-clasica": {
+        "name": "orion-version-clasica",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-version-clasica.git",
+        "hits": 749
+    },
+    "orion-pago-automatico-cuentas": {
+        "name": "orion-pago-automatico-cuentas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-pago-automatico-cuentas.git",
+        "hits": 679
+    },
+    "taurus-credito-pago": {
+        "name": "taurus-credito-pago",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-pago.git",
+        "hits": 73
+    },
+    "taurus-ahorro-consulta-cuentas": {
+        "name": "taurus-ahorro-consulta-cuentas",
+        "repo": "ssh://git@200.14.166.249:7999/tffa/taurus-ahorro-postventa.git",
+        "hits": 8
+    },
+    "taurus-directives-capitalize": {
+        "name": "taurus-directives-capitalize",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-capitalize.git",
+        "hits": 0
+    },
+    "taurus-dap-bandeja-supervisor": {
+        "name": "taurus-dap-bandeja-supervisor",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-bandeja-supervisor.git",
+        "hits": 207
+    },
+    "directive-only-number": {
+        "name": "directive-only-number",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-only-number.git",
+        "hits": 0
+    },
+    "taurus-escritorio-ejecutivo": {
+        "name": "taurus-escritorio-ejecutivo",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-escritorio-ejecutivo.git",
+        "hits": 381
+    },
+    "taurus-campanas-ejecutivo": {
+        "name": "taurus-campanas-ejecutivo",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-campanas-ejecutivo.git",
+        "hits": 36
+    },
+    "taurus-vision-cliente-360": {
+        "name": "taurus-vision-cliente-360",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-vision-cliente-360.git",
+        "hits": 33
+    },
+    "taurus-credito-autorizar-curse": {
+        "name": "taurus-credito-autorizar-curse",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-autorizar-curse.git",
+        "hits": 7
+    },
+    "orion-portal-proveedores": {
+        "name": "orion-portal-proveedores",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-portal-proveedores.git",
+        "hits": 315
+    },
+    "taurus-catalogos": {
+        "name": "taurus-catalogos",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-catalogos.git",
+        "hits": 691
+    },
+    "orion-creacion-cuentas-vistas": {
+        "name": "orion-creacion-cuentas-vistas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-creacion-cuentas-vistas.git",
+        "hits": 425
+    },
+    "orion-pago-cotizaciones": {
+        "name": "orion-pago-cotizaciones",
+        "repo": "ssh://git@200.14.166.249:7999/cot/orion-pago-cotizaciones.git",
+        "hits": 423
+    },
+    "orion-aportes-teleton": {
+        "name": "orion-aportes-teleton",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-aportes-teleton.git",
+        "hits": 603
+    },
+    "orion-directivas-tablas": {
+        "name": "orion-directivas-tablas",
+        "repo": "ssh://git@200.14.166.249:7999/ui/orion-directivas-tablas.git",
+        "hits": 1620
+    },
+    "orion-truster-rapport": {
+        "name": "orion-truster-rapport",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-truster-rapport.git",
+        "hits": 614
+    },
+    "orion-i18n": {
+        "name": "orion-i18n",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-i18n.git",
+        "hits": 781
+    },
+    "orion-notificaciones": {
+        "name": "orion-notificaciones",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-notificaciones.git",
+        "hits": 621
+    },
+    "bchui-contrast": {
+        "name": "bchui-contrast",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-bchui-contrast.git",
+        "hits": 791
+    },
+    "taurus-dap-desbloqueos-pagados": {
+        "name": "taurus-dap-desbloqueos-pagados",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-desbloqueos-pagados.git",
+        "hits": 181
+    },
+    "orion-selector-sucursal": {
+        "name": "orion-selector-sucursal",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-selector-sucursal.git",
+        "hits": 320
+    },
+    "taurus-click-focus": {
+        "name": "taurus-click-focus",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-click-focus.git",
+        "hits": 955
+    },
+    "orion-emergencias-bancarias-empresas": {
+        "name": "orion-emergencias-bancarias-empresas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-emergencias-bancarias-empresas.git",
+        "hits": 318
+    },
+    "orion-factoring": {
+        "name": "orion-factoring",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-factoring.git",
+        "hits": 320
+    },
+    "orion-cheques-empresa": {
+        "name": "orion-cheques-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-cheques-empresa.git",
+        "hits": 319
+    },
+    "orion-recaudaciones-selector-convenio": {
+        "name": "orion-recaudaciones-selector-convenio",
+        "repo": "ssh://git@200.14.166.249:7999/rec/orion-recaudaciones-selector-convenio.git",
+        "hits": 375
+    },
+    "taurus-dap-certificados": {
+        "name": "taurus-dap-certificados",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-certificados.git",
+        "hits": 183
+    },
+    "orion-recaudaciones": {
+        "name": "orion-recaudaciones",
+        "repo": "ssh://git@200.14.166.249:7999/rec/orion-recaudaciones.git",
+        "hits": 320
+    },
+    "taurus-dap-bandeja-ejecutivo": {
+        "name": "taurus-dap-bandeja-ejecutivo",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-bandeja-ejecutivo.git",
+        "hits": 187
+    },
+    "orion-recaudacion-cuota": {
+        "name": "orion-recaudacion-cuota",
+        "repo": "ssh://git@200.14.166.249:7999/rec/orion-recaudacion-cuota.git",
+        "hits": 303
+    },
+    "orion-angular-breadcrumbs": {
+        "name": "orion-angular-breadcrumbs",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-angular-breadcrumbs.git",
+        "hits": 286
+    },
+    "taurus-dap-mantenedor-supervisores": {
+        "name": "taurus-dap-mantenedor-supervisores",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-mantenedor-supervisores.git",
+        "hits": 186
+    },
+    "taurus-fecha-util": {
+        "name": "taurus-fecha-util",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-fecha-util.git",
+        "hits": 935
+    },
+    "orion-recaudaciones-upload": {
+        "name": "orion-recaudaciones-upload",
+        "repo": "ssh://git@200.14.166.249:7999/rec/orion-recaudaciones-upload.git",
+        "hits": 370
+    },
+    "orion-file-download": {
+        "name": "orion-file-download",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-file-download.git",
+        "hits": 384
+    },
+    "orion-comex": {
+        "name": "orion-comex",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-comex.git",
+        "hits": 319
+    },
+    "taurus-directive-label-with-buttons": {
+        "name": "taurus-directive-label-with-buttons",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-label-with-buttons.git",
+        "hits": 293
+    },
+    "orion-leasing": {
+        "name": "orion-leasing",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-leasing.git",
+        "hits": 76
+    },
+    "orion-drag-and-drop-file-upload": {
+        "name": "orion-drag-and-drop-file-upload",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-drag-and-drop-file-upload.git",
+        "hits": 615
+    },
+    "taurus-directive-only-number": {
+        "name": "taurus-directive-only-number",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-only-number.git",
+        "hits": 965
+    },
+    "orion-factura-electronica-empresas": {
+        "name": "orion-factura-electronica-empresas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-factura-electronica-empresas.git",
+        "hits": 293
+    },
+    "proyecto-base": {
+        "name": "proyecto-base",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/proyecto-base.git",
+        "hits": 922
+    },
+    "orion-pago-electronico-empresa": {
+        "name": "orion-pago-electronico-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-pago-electronico-empresa.git",
+        "hits": 320
+    },
+    "orion-beneficiarios-comex-empresa": {
+        "name": "orion-beneficiarios-comex-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-beneficiarios-comex-empresa.git",
+        "hits": 321
+    },
+    "orion-formularios-comex-empresa": {
+        "name": "orion-formularios-comex-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-formularios-comex-empresa.git",
+        "hits": 319
+    },
+    "orion-selector-cuenta-corriente": {
+        "name": "orion-selector-cuenta-corriente",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-selector-cuenta-corriente.git",
+        "hits": 378
+    },
+    "taurus-caja-cliente": {
+        "name": "taurus-caja-cliente",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-caja-cliente.git",
+        "hits": 621
+    },
+    "taurus-productos-servicios": {
+        "name": "taurus-productos-servicios",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-productos-servicios.git",
+        "hits": 634
+    },
+    "taurus-simulacion-credito-cuotas": {
+        "name": "taurus-simulacion-credito-cuotas",
+        "repo": "ssh://git@200.14.166.249:7999/tffcc/taurus-simulacion-credito-cuotas.git",
+        "hits": 102
+    },
+    "taurus-directive-phone-number": {
+        "name": "taurus-directive-phone-number",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-phone-number.git",
+        "hits": 601
+    },
+    "taurus-directive-only-alphabet-with-space": {
+        "name": "taurus-directive-only-alphabet-with-space",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-only-alphabet-with-space.git",
+        "hits": 553
+    },
+    "taurus-error-handler": {
+        "name": "taurus-error-handler",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-error-handler.git",
+        "hits": 542
+    },
+    "taurus-enrolamiento-cliente": {
+        "name": "taurus-enrolamiento-cliente",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-enrolamiento-cliente.git",
+        "hits": 467
+    },
+    "orion-carta-instruccion-consulta": {
+        "name": "orion-carta-instruccion-consulta",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-carta-instruccion-bpm-banco.git",
+        "hits": 0
+    },
+    "orion-carta-instruccion-bpm-banco": {
+        "name": "orion-carta-instruccion-bpm-banco",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-carta-instruccion-bpm-banco.git",
+        "hits": 137
+    },
+    "orion-file-upload-dnd": {
+        "name": "orion-file-upload-dnd",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-file-upload-dnd.git",
+        "hits": 46
+    },
+    "orion-common-directives": {
+        "name": "orion-common-directives",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-common-directives.git",
+        "hits": 148
+    },
+    "orion-admin-usuarios": {
+        "name": "orion-admin-usuarios",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-admin-usuarios.git",
+        "hits": 145
+    },
+    "orion-file-viewer": {
+        "name": "orion-file-viewer",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-file-viewer.git",
+        "hits": 142
+    },
+    "taurus-ahorro-postventa": {
+        "name": "taurus-ahorro-postventa",
+        "repo": "ssh://git@200.14.166.249:7999/tffa/taurus-ahorro-postventa.git",
+        "hits": 89
+    },
+    "taurus-v360": {
+        "name": "taurus-v360",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-v360.git",
+        "hits": 308
+    },
+    "taurus-credito-autorizar-pagos-curses": {
+        "name": "taurus-credito-autorizar-pagos-curses",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-autorizar-pago.git",
+        "hits": 52
+    },
+    "taurus-credito-listado-reparos": {
+        "name": "taurus-credito-listado-reparos",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-listado-reparos.git",
+        "hits": 51
+    },
+    "taurus-estructura-comercial": {
+        "name": "taurus-estructura-comercial",
+        "repo": "ssh://git@200.14.166.249:7999/tffr/taurus-estructura-comercial.git",
+        "hits": 24
+    },
+    "orion-dateparser": {
+        "name": "orion-dateparser",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-dateparser.git",
+        "hits": 0
+    },
+    "orion-dateParser": {
+        "name": "orion-dateParser",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-dateparser.git",
+        "hits": 140
+    },
+    "taurus-cuentas-vistas": {
+        "name": "taurus-cuentas-vistas",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-cuentas-vistas.git",
+        "hits": 67
+    },
+    "taurus-header-input": {
+        "name": "taurus-header-input",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-header-input.git",
+        "hits": 139
+    },
+    "orion-bitacora": {
+        "name": "orion-bitacora",
+        "repo": "ssh://git@200.14.166.249:7999/cf/orion-bitacora.git",
+        "hits": 316
+    },
+    "taurus-cheques-propios": {
+        "name": "taurus-cheques-propios",
+        "repo": "ssh://git@200.14.166.249:7999/tf/bch-plataforma-cheques-propios.git",
+        "hits": 3
+    },
+    "taurus-cheques-propio": {
+        "name": "taurus-cheques-propio",
+        "repo": "ssh://git@200.14.166.249:7999/tffs/taurus-cheques-propios.git",
+        "hits": 45
+    },
+    "taurus-regularizaciones": {
+        "name": "taurus-regularizaciones",
+        "repo": "ssh://git@200.14.166.249:7999/tfr/taurus-regularizaciones.git",
+        "hits": 75
+    },
+    "taurus-directive-sticky": {
+        "name": "taurus-directive-sticky",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-sticky.git",
+        "hits": 487
+    },
+    "taurus-directive-datos-sensibles": {
+        "name": "taurus-directive-datos-sensibles",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-datos-sensibles.git",
+        "hits": 509
+    },
+    "taurus-header-perfilamiento": {
+        "name": "taurus-header-perfilamiento",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-header-perfilamiento.git",
+        "hits": 549
+    },
+    "taurus-plataforma-chilefx": {
+        "name": "taurus-plataforma-chilefx",
+        "repo": "ssh://git@200.14.166.249:7999/tfc/taurus-plataforma-chilefx.git",
+        "hits": 44
+    },
+    "taurus-mantenedor-rbac": {
+        "name": "taurus-mantenedor-rbac",
+        "repo": "ssh://git@200.14.166.249:7999/tffr/taurus-mantenedor-rbac.git",
+        "hits": 29
+    },
+    "orion-content-file-upload": {
+        "name": "orion-content-file-upload",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-content-file-upload.git",
+        "hits": 118
+    },
+    "bch-plataforma-escalamiento": {
+        "name": "bch-plataforma-escalamiento",
+        "repo": "ssh://git@200.14.166.249:7999/tf/bch-plataforma-escalamiento.git",
+        "hits": 0
+    },
+    "orion-credito-consumo-publico": {
+        "name": "orion-credito-consumo-publico",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-credito-consumo-publico.git",
+        "hits": 62
+    },
+    "orion-cartola-inversiones-empresa": {
+        "name": "orion-cartola-inversiones-empresa",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-cartola-inversiones-empresa.git",
+        "hits": 248
+    },
+    "orion-validar-permisos": {
+        "name": "orion-validar-permisos",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-validar-permisos.git",
+        "hits": 146
+    },
+    "taurus-directive-block-view": {
+        "name": "taurus-directive-block-view",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-block-view.git",
+        "hits": 450
+    },
+    "taurus-configuracion-escalamiento": {
+        "name": "taurus-configuracion-escalamiento",
+        "repo": "ssh://git@200.14.166.249:7999/tffr/taurus-configuracion-escalamiento.git",
+        "hits": 22
+    },
+    "taurus-perfil-ejecutivo": {
+        "name": "taurus-perfil-ejecutivo",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-perfil-ejecutivo.git",
+        "hits": 417
+    },
+    "taurus-carrusel-accesos": {
+        "name": "taurus-carrusel-accesos",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-carrusel-accesos.git",
+        "hits": 15
+    },
+    "orion-cobranzas-comex": {
+        "name": "orion-cobranzas-comex",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-cobranzas-comex.git",
+        "hits": 221
+    },
+    "taurus-serv-linea-credito": {
+        "name": "taurus-serv-linea-credito",
+        "repo": "ssh://git@200.14.166.249:7999/tffs/taurus-serv-linea-credito.git",
+        "hits": 101
+    },
+    "orion-directive-util-formHelper": {
+        "name": "orion-directive-util-formHelper",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-directive-util-formhelper.git",
+        "hits": 237
+    },
+    "orion-comex-instrucciones-cobertura": {
+        "name": "orion-comex-instrucciones-cobertura",
+        "repo": "ssh://git@200.14.166.249:7999/com/orion-comex-instrucciones-cobertura.git",
+        "hits": 119
+    },
+    "orion-administrador-de-comercios": {
+        "name": "orion-administrador-de-comercios",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-administrador-de-comercios.git",
+        "hits": 64
+    },
+    "taurus-seguros-general": {
+        "name": "taurus-seguros-general",
+        "repo": "ssh://git@200.14.166.249:7999/tffsg/taurus-seguros-general.git",
+        "hits": 127
+    },
+    "taurus-seguros-contratar": {
+        "name": "taurus-seguros-contratar",
+        "repo": "ssh://git@200.14.166.249:7999/tffsg/taurus-seguros-contratar.git",
+        "hits": 107
+    },
+    "taurus-seguros-contratados": {
+        "name": "taurus-seguros-contratados",
+        "repo": "ssh://git@200.14.166.249:7999/tffsg/taurus-seguros-contratados.git",
+        "hits": 127
+    },
+    "orion-comex-instrucciones-varias": {
+        "name": "orion-comex-instrucciones-varias",
+        "repo": "ssh://git@200.14.166.249:7999/com/orion-comex-instrucciones-varias.git",
+        "hits": 205
+    },
+    "bch-webkit": {
+        "name": "bch-webkit",
+        "repo": "ssh://git@200.14.166.249:7999/ui/bch-webkit.git",
+        "hits": 6
+    },
+    "taurus-emergencias-bancarias": {
+        "name": "taurus-emergencias-bancarias",
+        "repo": "ssh://git@200.14.166.249:7999/tffe/taurus-emergencias-bancarias.git",
+        "hits": 46
+    },
+    "taurus-directive-paginator-back": {
+        "name": "taurus-directive-paginator-back",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-paginator-back.git",
+        "hits": 60
+    },
+    "orion-boleta-garantia": {
+        "name": "orion-boleta-garantia",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-boleta-garantia.git",
+        "hits": 171
+    },
+    "taurus-configuracion-operaciones": {
+        "name": "taurus-configuracion-operaciones",
+        "repo": "ssh://git@200.14.166.249:7999/tffr/taurus-configuracion-operaciones.git",
+        "hits": 35
+    },
+    "taurus-directive-lista-sucursales": {
+        "name": "taurus-directive-lista-sucursales",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-lista-sucursales.git",
+        "hits": 50
+    },
+    "taurus-bloqueo-productos": {
+        "name": "taurus-bloqueo-productos",
+        "repo": "ssh://git@200.14.166.249:7999/tffe/taurus-bloqueo-productos.git",
+        "hits": 58
+    },
+    "taurus-mensajes-alerta": {
+        "name": "taurus-mensajes-alerta",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-mensajes-alerta.git",
+        "hits": 45
+    },
+    "taurus-serv-cuenta-corriente": {
+        "name": "taurus-serv-cuenta-corriente",
+        "repo": "ssh://git@200.14.166.249:7999/tffs/taurus-serv-cuenta-corriente.git",
+        "hits": 17
+    },
+    "taurus-dap-inversiones-360": {
+        "name": "taurus-dap-inversiones-360",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-inversiones-360.git",
+        "hits": 42
+    },
+    "bch-plataforma-inversiones": {
+        "name": "bch-plataforma-inversiones",
+        "repo": "ssh://git@200.14.166.249:7999/tf/bch-plataforma-inversiones.git",
+        "hits": 2
+    },
+    "taurus-seguros-producto": {
+        "name": "taurus-seguros-producto",
+        "repo": "ssh://git@200.14.166.249:7999/tffsg/taurus-seguros-producto.git",
+        "hits": 1
+    },
+    "taurus-emergencias-bitacora": {
+        "name": "taurus-emergencias-bitacora",
+        "repo": "ssh://git@200.14.166.249:7999/tffe/taurus-emergencias-bitacora.git",
+        "hits": 30
+    },
+    "taurus-seguros-comun": {
+        "name": "taurus-seguros-comun",
+        "repo": "ssh://git@200.14.166.249:7999/tffsg/taurus-seguros-comun.git",
+        "hits": 82
+    },
+    "taurus-dap-postventa-360": {
+        "name": "taurus-dap-postventa-360",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-postventa-360.git",
+        "hits": 40
+    },
+    "orion-transition-detail-directive": {
+        "name": "orion-transition-detail-directive",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-transition-detail-directive.git",
+        "hits": 94
+    },
+    "taurus-dap-ingreso-deposito-base": {
+        "name": "taurus-dap-ingreso-deposito-base",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-ingreso-deposito-base.git",
+        "hits": 38
+    },
+    "orion-comex-selector-cuentas": {
+        "name": "orion-comex-selector-cuentas",
+        "repo": "ssh://git@200.14.166.249:7999/com/orion-comex-selector-cuentas.git",
+        "hits": 45
+    },
+    "taurus-proyecto-base": {
+        "name": "taurus-proyecto-base",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/proyecto-base.git",
+        "hits": 1
+    },
+    "orion-file-upload-tef": {
+        "name": "orion-file-upload-tef",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-file-upload-tef.git",
+        "hits": 6
+    },
+    "orion-content-file-tef": {
+        "name": "orion-content-file-tef",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-content-file-tef.git",
+        "hits": 2
+    },
+    "orion-carta-credito-contado-comex": {
+        "name": "orion-carta-credito-contado-comex",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-carta-credito-contado-comex.git",
+        "hits": 19
+    },
+    "taurus-notificacion-ejecutivo": {
+        "name": "taurus-notificacion-ejecutivo",
+        "repo": "ssh://git@200.14.166.249:7999/ncn/notificaciones-front-v2.git",
+        "hits": 8
+    },
+    "orion-pagos-masivos-portal-beneficiario": {
+        "name": "orion-pagos-masivos-portal-beneficiario",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-pagos-masivos-portal-beneficiario.git",
+        "hits": 2
+    },
+    "orion-btn-de-pago-empresas": {
+        "name": "orion-btn-de-pago-empresas",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-btn-de-pago-empresas.git",
+        "hits": 7
+    },
+    "orion-bdp-recaudador": {
+        "name": "orion-bdp-recaudador",
+        "repo": "ssh://git@200.14.166.249:7999/pb/orion-bdp-recaudador.git",
+        "hits": 5
+    }
+}

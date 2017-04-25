@@ -1,0 +1,32 @@
+{
+  "taurus-info-financiera-cliente": {
+      "name": "taurus-info-financiera-cliente",
+      "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-info-financiera-cliente.git",
+      "hits": 212
+  },
+  "taurus-directive-enter": {
+      "name": "taurus-directive-enter",
+      "repo": "ssh://git@200.14.166.249:7999/tfct/directive-enter.git",
+      "hits": 376
+  },
+  "taurus-filter": {
+      "name": "taurus-filter",
+      "repo": "ssh://git@200.14.166.249:7999/tfct/filters.git",
+      "hits": 2
+  },
+  "taurus-filters": {
+      "name": "taurus-filters",
+      "repo": "ssh://git@200.14.166.249:7999/tfct/filters.git",
+      "hits": 428
+  },
+  "taurus-directive-rut": {
+      "name": "taurus-directive-rut",
+      "repo": "ssh://git@200.14.166.249:7999/tfct/directive-rut.git",
+      "hits": 294
+  },
+  "taurus-directive-date": {
+      "name": "taurus-directive-date",
+      "repo": "ssh://git@200.14.166.249:7999/tfct/directive-date.git",
+      "hits": 323
+  }
+}

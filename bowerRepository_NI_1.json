@@ -1,0 +1,498 @@
+{
+    
+    "taurus-poc-cuadropago": {
+        "name": "taurus-poc-cuadropago",
+        "repo": "ssh://git@200.14.166.249:7999/tf/bch-plataforma-base-cuadropago.git",
+        "hits": 1
+    },
+    "taurus-info-financiera-cliente": {
+        "name": "taurus-info-financiera-cliente",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-info-financiera-cliente.git",
+        "hits": 899
+    },
+    "taurus-directive-enter": {
+        "name": "taurus-directive-enter",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-enter.git",
+        "hits": 1262
+    },
+    "taurus-filter": {
+        "name": "taurus-filter",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/filters.git",
+        "hits": 2
+    },
+    "taurus-filters": {
+        "name": "taurus-filters",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/filters.git",
+        "hits": 1458
+    },
+    "taurus-directive-rut": {
+        "name": "taurus-directive-rut",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-rut.git",
+        "hits": 1167
+    },
+    "taurus-credito-cierre-dia": {
+        "name": "taurus-credito-cierre-dia",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-cierre-dia.git",
+        "hits": 145
+    },
+    "taurus-credito-autorizar-pago": {
+        "name": "taurus-credito-autorizar-pago",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-autorizar-pago.git",
+        "hits": 2
+    },
+    "taurus-credito-listado-transacciones": {
+        "name": "taurus-credito-listado-transacciones",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-listado-transacciones.git",
+        "hits": 146
+    },
+    "taurus-credito-cuadro-pago": {
+        "name": "taurus-credito-cuadro-pago",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-cuadro-pago.git",
+        "hits": 146
+    },
+    "taurus-directive-validatekey": {
+        "name": "taurus-directive-validatekey",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-validatekey.git",
+        "hits": 966
+    },
+    "taurus-directive-show-if-authorized": {
+        "name": "taurus-directive-show-if-authorized",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-show-if-authorized.git",
+        "hits": 1312
+    },
+    "taurus-plataforma": {
+        "name": "taurus-plataforma",
+        "repo": "ssh://git@200.14.166.249:7999/tu/taurus-plataforma.git",
+        "hits": 766
+    },
+    "taurus-paginator": {
+        "name": "taurus-paginator",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/paginator.git",
+        "hits": 465
+    },
+    "taurus-directive-number": {
+        "name": "taurus-directive-number",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-number.git",
+        "hits": 1202
+    },
+    "taurus-header": {
+        "name": "taurus-header",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-header.git",
+        "hits": 730
+    },
+    "taurus-dap-consulta-deposito": {
+        "name": "taurus-dap-consulta-deposito",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-consulta-deposito.git",
+        "hits": 306
+    },
+    "taurus-dap-journal": {
+        "name": "taurus-dap-journal",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-journal.git",
+        "hits": 283
+    },
+    "taurus-dap-ingreso-deposito": {
+        "name": "taurus-dap-ingreso-deposito",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-ingreso-deposito.git",
+        "hits": 446
+    },
+    "taurus-indicadores-financieros": {
+        "name": "taurus-indicadores-financieros",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/indicadores-financieros-factory.git",
+        "hits": 1195
+    },
+    "taurus-jwt-factory": {
+        "name": "taurus-jwt-factory",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/jwt-factory.git",
+        "hits": 1194
+    },
+    "taurus-info-cliente": {
+        "name": "taurus-info-cliente",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-info-cliente.git",
+        "hits": 1113
+    },
+    "taurus-dap-consulta-vigentes": {
+        "name": "taurus-dap-consulta-vigentes",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-consulta-vigentes.git",
+        "hits": 244
+    },
+    "taurus-dap-liquidacion-deposito": {
+        "name": "taurus-dap-liquidacion-deposito",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-liquidacion-deposito.git",
+        "hits": 57
+    },
+    "taurus-dap-informe-novedades": {
+        "name": "taurus-dap-informe-novedades",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-informe-novedades.git",
+        "hits": 256
+    },
+    "taurus-perfil-usuario": {
+        "name": "taurus-perfil-usuario",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/perfil-usuario.git",
+        "hits": 949
+    },
+    "taurus-serv-consulta-productos": {
+        "name": "taurus-serv-consulta-productos",
+        "repo": "ssh://git@200.14.166.249:7999/tffs/taurus-serv-consulta-productos.git",
+        "hits": 140
+    },
+    "taurus-credito-curse": {
+        "name": "taurus-credito-curse",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-curse.git",
+        "hits": 135
+    },
+    "taurus-fecha-factory": {
+        "name": "taurus-fecha-factory",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-fecha-factory.git",
+        "hits": 99
+    },
+    "taurus-credito-mantenedor": {
+        "name": "taurus-credito-mantenedor",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-mantenedor.git",
+        "hits": 119
+    },
+    "taurus-info-basica-personal": {
+        "name": "taurus-info-basica-personal",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-info-basica-personal.git",
+        "hits": 7
+    },
+    "taurus-format-number": {
+        "name": "taurus-format-number",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-format-number.git",
+        "hits": 964
+    },
+    "taurus-dap-postventa": {
+        "name": "taurus-dap-postventa",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-postventa.git",
+        "hits": 299
+    },
+    "taurus-info-cliente-360": {
+        "name": "taurus-info-cliente-360",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-info-cliente-360.git",
+        "hits": 17
+    },
+    "taurus-credito-reversa": {
+        "name": "taurus-credito-reversa",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-reversa.git",
+        "hits": 97
+    },
+    "taurus-buscar-cliente": {
+        "name": "taurus-buscar-cliente",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-buscar-cliente.git",
+        "hits": 0
+    },
+    "taurus-directive-buscar-cliente": {
+        "name": "taurus-directive-buscar-cliente",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/directive-buscar-cliente.git",
+        "hits": 733
+    },
+    "taurus-credito-pago": {
+        "name": "taurus-credito-pago",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-pago.git",
+        "hits": 73
+    },
+    "taurus-ahorro-consulta-cuentas": {
+        "name": "taurus-ahorro-consulta-cuentas",
+        "repo": "ssh://git@200.14.166.249:7999/tffa/taurus-ahorro-postventa.git",
+        "hits": 8
+    },
+    "taurus-directives-capitalize": {
+        "name": "taurus-directives-capitalize",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-capitalize.git",
+        "hits": 0
+    },
+    "taurus-dap-bandeja-supervisor": {
+        "name": "taurus-dap-bandeja-supervisor",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-bandeja-supervisor.git",
+        "hits": 207
+    },
+    "taurus-escritorio-ejecutivo": {
+        "name": "taurus-escritorio-ejecutivo",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-escritorio-ejecutivo.git",
+        "hits": 381
+    },
+    "taurus-campanas-ejecutivo": {
+        "name": "taurus-campanas-ejecutivo",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-campanas-ejecutivo.git",
+        "hits": 36
+    },
+    "taurus-vision-cliente-360": {
+        "name": "taurus-vision-cliente-360",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-vision-cliente-360.git",
+        "hits": 33
+    },
+    "taurus-credito-autorizar-curse": {
+        "name": "taurus-credito-autorizar-curse",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-autorizar-curse.git",
+        "hits": 7
+    },
+    "taurus-catalogos": {
+        "name": "taurus-catalogos",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-catalogos.git",
+        "hits": 691
+    },
+    "taurus-dap-desbloqueos-pagados": {
+        "name": "taurus-dap-desbloqueos-pagados",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-desbloqueos-pagados.git",
+        "hits": 181
+    },
+    "taurus-click-focus": {
+        "name": "taurus-click-focus",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-click-focus.git",
+        "hits": 955
+    },
+    "taurus-dap-certificados": {
+        "name": "taurus-dap-certificados",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-certificados.git",
+        "hits": 183
+    },
+    "taurus-dap-bandeja-ejecutivo": {
+        "name": "taurus-dap-bandeja-ejecutivo",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-bandeja-ejecutivo.git",
+        "hits": 187
+    },
+    "taurus-dap-mantenedor-supervisores": {
+        "name": "taurus-dap-mantenedor-supervisores",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-mantenedor-supervisores.git",
+        "hits": 186
+    },
+    "taurus-fecha-util": {
+        "name": "taurus-fecha-util",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-fecha-util.git",
+        "hits": 935
+    },
+    "taurus-directive-label-with-buttons": {
+        "name": "taurus-directive-label-with-buttons",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-label-with-buttons.git",
+        "hits": 293
+    },
+    "taurus-directive-only-number": {
+        "name": "taurus-directive-only-number",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-only-number.git",
+        "hits": 965
+    },
+    "taurus-caja-cliente": {
+        "name": "taurus-caja-cliente",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-caja-cliente.git",
+        "hits": 621
+    },
+    "taurus-productos-servicios": {
+        "name": "taurus-productos-servicios",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-productos-servicios.git",
+        "hits": 634
+    },
+    "taurus-simulacion-credito-cuotas": {
+        "name": "taurus-simulacion-credito-cuotas",
+        "repo": "ssh://git@200.14.166.249:7999/tffcc/taurus-simulacion-credito-cuotas.git",
+        "hits": 102
+    },
+    "taurus-directive-phone-number": {
+        "name": "taurus-directive-phone-number",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-phone-number.git",
+        "hits": 601
+    },
+    "taurus-directive-only-alphabet-with-space": {
+        "name": "taurus-directive-only-alphabet-with-space",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-only-alphabet-with-space.git",
+        "hits": 553
+    },
+    "taurus-error-handler": {
+        "name": "taurus-error-handler",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-error-handler.git",
+        "hits": 542
+    },
+    "taurus-enrolamiento-cliente": {
+        "name": "taurus-enrolamiento-cliente",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-enrolamiento-cliente.git",
+        "hits": 467
+    },
+    "taurus-ahorro-postventa": {
+        "name": "taurus-ahorro-postventa",
+        "repo": "ssh://git@200.14.166.249:7999/tffa/taurus-ahorro-postventa.git",
+        "hits": 89
+    },
+    "taurus-v360": {
+        "name": "taurus-v360",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-v360.git",
+        "hits": 308
+    },
+    "taurus-credito-autorizar-pagos-curses": {
+        "name": "taurus-credito-autorizar-pagos-curses",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-autorizar-pago.git",
+        "hits": 52
+    },
+    "taurus-credito-listado-reparos": {
+        "name": "taurus-credito-listado-reparos",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-credito-listado-reparos.git",
+        "hits": 51
+    },
+    "taurus-estructura-comercial": {
+        "name": "taurus-estructura-comercial",
+        "repo": "ssh://git@200.14.166.249:7999/tffr/taurus-estructura-comercial.git",
+        "hits": 24
+    },
+    "taurus-cuentas-vistas": {
+        "name": "taurus-cuentas-vistas",
+        "repo": "ssh://git@200.14.166.249:7999/tffc/taurus-cuentas-vistas.git",
+        "hits": 67
+    },
+    "taurus-header-input": {
+        "name": "taurus-header-input",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-header-input.git",
+        "hits": 139
+    },
+    "taurus-cheques-propios": {
+        "name": "taurus-cheques-propios",
+        "repo": "ssh://git@200.14.166.249:7999/tf/bch-plataforma-cheques-propios.git",
+        "hits": 3
+    },
+    "taurus-cheques-propio": {
+        "name": "taurus-cheques-propio",
+        "repo": "ssh://git@200.14.166.249:7999/tffs/taurus-cheques-propios.git",
+        "hits": 45
+    },
+    "taurus-regularizaciones": {
+        "name": "taurus-regularizaciones",
+        "repo": "ssh://git@200.14.166.249:7999/tfr/taurus-regularizaciones.git",
+        "hits": 75
+    },
+    "taurus-directive-sticky": {
+        "name": "taurus-directive-sticky",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-sticky.git",
+        "hits": 487
+    },
+    "taurus-directive-datos-sensibles": {
+        "name": "taurus-directive-datos-sensibles",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-datos-sensibles.git",
+        "hits": 509
+    },
+    "taurus-header-perfilamiento": {
+        "name": "taurus-header-perfilamiento",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-header-perfilamiento.git",
+        "hits": 549
+    },
+    "taurus-plataforma-chilefx": {
+        "name": "taurus-plataforma-chilefx",
+        "repo": "ssh://git@200.14.166.249:7999/tfc/taurus-plataforma-chilefx.git",
+        "hits": 44
+    },
+    "taurus-mantenedor-rbac": {
+        "name": "taurus-mantenedor-rbac",
+        "repo": "ssh://git@200.14.166.249:7999/tffr/taurus-mantenedor-rbac.git",
+        "hits": 29
+    },
+    "taurus-directive-block-view": {
+        "name": "taurus-directive-block-view",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-block-view.git",
+        "hits": 450
+    },
+    "taurus-configuracion-escalamiento": {
+        "name": "taurus-configuracion-escalamiento",
+        "repo": "ssh://git@200.14.166.249:7999/tffr/taurus-configuracion-escalamiento.git",
+        "hits": 22
+    },
+    "taurus-perfil-ejecutivo": {
+        "name": "taurus-perfil-ejecutivo",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-perfil-ejecutivo.git",
+        "hits": 417
+    },
+    "taurus-carrusel-accesos": {
+        "name": "taurus-carrusel-accesos",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-carrusel-accesos.git",
+        "hits": 15
+    },
+    "taurus-serv-linea-credito": {
+        "name": "taurus-serv-linea-credito",
+        "repo": "ssh://git@200.14.166.249:7999/tffs/taurus-serv-linea-credito.git",
+        "hits": 101
+    },
+    "taurus-seguros-general": {
+        "name": "taurus-seguros-general",
+        "repo": "ssh://git@200.14.166.249:7999/tffsg/taurus-seguros-general.git",
+        "hits": 127
+    },
+    "taurus-seguros-contratar": {
+        "name": "taurus-seguros-contratar",
+        "repo": "ssh://git@200.14.166.249:7999/tffsg/taurus-seguros-contratar.git",
+        "hits": 107
+    },
+    "taurus-seguros-contratados": {
+        "name": "taurus-seguros-contratados",
+        "repo": "ssh://git@200.14.166.249:7999/tffsg/taurus-seguros-contratados.git",
+        "hits": 127
+    },
+    "taurus-emergencias-bancarias": {
+        "name": "taurus-emergencias-bancarias",
+        "repo": "ssh://git@200.14.166.249:7999/tffe/taurus-emergencias-bancarias.git",
+        "hits": 46
+    },
+    "taurus-directive-paginator-back": {
+        "name": "taurus-directive-paginator-back",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-paginator-back.git",
+        "hits": 60
+    },
+    "taurus-configuracion-operaciones": {
+        "name": "taurus-configuracion-operaciones",
+        "repo": "ssh://git@200.14.166.249:7999/tffr/taurus-configuracion-operaciones.git",
+        "hits": 35
+    },
+    "taurus-directive-lista-sucursales": {
+        "name": "taurus-directive-lista-sucursales",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-directive-lista-sucursales.git",
+        "hits": 50
+    },
+    "taurus-bloqueo-productos": {
+        "name": "taurus-bloqueo-productos",
+        "repo": "ssh://git@200.14.166.249:7999/tffe/taurus-bloqueo-productos.git",
+        "hits": 58
+    },
+    "taurus-mensajes-alerta": {
+        "name": "taurus-mensajes-alerta",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/taurus-mensajes-alerta.git",
+        "hits": 45
+    },
+    "taurus-serv-cuenta-corriente": {
+        "name": "taurus-serv-cuenta-corriente",
+        "repo": "ssh://git@200.14.166.249:7999/tffs/taurus-serv-cuenta-corriente.git",
+        "hits": 17
+    },
+    "taurus-dap-inversiones-360": {
+        "name": "taurus-dap-inversiones-360",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-inversiones-360.git",
+        "hits": 42
+    },
+    "taurus-seguros-producto": {
+        "name": "taurus-seguros-producto",
+        "repo": "ssh://git@200.14.166.249:7999/tffsg/taurus-seguros-producto.git",
+        "hits": 1
+    },
+    "taurus-emergencias-bitacora": {
+        "name": "taurus-emergencias-bitacora",
+        "repo": "ssh://git@200.14.166.249:7999/tffe/taurus-emergencias-bitacora.git",
+        "hits": 30
+    },
+    "taurus-seguros-comun": {
+        "name": "taurus-seguros-comun",
+        "repo": "ssh://git@200.14.166.249:7999/tffsg/taurus-seguros-comun.git",
+        "hits": 82
+    },
+    "taurus-dap-postventa-360": {
+        "name": "taurus-dap-postventa-360",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-postventa-360.git",
+        "hits": 40
+    },
+    "taurus-dap-ingreso-deposito-base": {
+        "name": "taurus-dap-ingreso-deposito-base",
+        "repo": "ssh://git@200.14.166.249:7999/tffd/taurus-dap-ingreso-deposito-base.git",
+        "hits": 38
+    },
+    "taurus-proyecto-base": {
+        "name": "taurus-proyecto-base",
+        "repo": "ssh://git@200.14.166.249:7999/tfct/proyecto-base.git",
+        "hits": 1
+    },
+    "taurus-notificacion-ejecutivo": {
+        "name": "taurus-notificacion-ejecutivo",
+        "repo": "ssh://git@200.14.166.249:7999/ncn/notificaciones-front-v2.git",
+        "hits": 8
+    }
+}
