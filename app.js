@@ -1,5 +1,5 @@
 "use strict";
-var json = JSON.parse(require('fs').readFileSync('bowerRepository_NI_1.json', 'utf8'));
+var json = JSON.parse(require('fs').readFileSync('bowerRepository_CDN_1.json', 'utf8'));
 var exec = require('child_process').execSync, child;
 
 function register (cmd){

@@ -3,7 +3,7 @@
         "search" : [
             "http://152.139.124.245:8081/repository/bower-all/"
         ],
-        "register" : "http://admin:admin123@152.139.124.245:8081/repository/bower-bch/"
+        "register" : "http://bch-bower-register:bch-bower-register@152.139.124.245:8081/repository/bower-bch/"
    },
    "resolvers" : [ "bower-nexus3-resolver" ]
 }
